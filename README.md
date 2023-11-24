@@ -1,6 +1,6 @@
-### Bem Vindos ao meu perfil 🖤🃏
+### :)
 
-Meu nome é Pollyana Gomes 
+Meu nome é Polly
 
 - Estou estudando na alura
 - Estou me desenvolvendo na linguagem JavaScript
